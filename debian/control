@@ -1,0 +1,13 @@
+Source: ros-foxy-pmb2-description
+Section: misc
+Priority: optional
+Maintainer: Victor Lopez <victor.lopez@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake-auto, ros-foxy-ament-cmake-python, ros-foxy-ament-lint-auto, ros-foxy-ament-lint-common, ros-foxy-launch-testing-ament-cmake, ros-foxy-urdf-test, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-pmb2-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-joint-state-publisher-gui, ros-foxy-launch, ros-foxy-launch-pal, ros-foxy-launch-ros, ros-foxy-xacro, ros-foxy-ros-workspace
+Description: Mechanical, kinematic, visual, etc.
+ description of the PMB2 robot. The files in this package are parsed and used by a variety of other components. Most users will not interact directly with this package.
