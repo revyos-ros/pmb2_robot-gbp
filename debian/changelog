@@ -1,0 +1,345 @@
+ros-foxy-pmb2-robot (4.0.4-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 18 Oct 2021 22:00:00 -0000
+
+ros-foxy-pmb2-robot (4.0.3-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 18 Oct 2021 22:00:00 -0000
+
+ros-foxy-pmb2-robot (4.0.2-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 14 Jul 2021 22:00:00 -0000
+
+ros-foxy-pmb2-robot (4.0.1-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 14 Jul 2021 22:00:00 -0000
+
+ros-foxy-pmb2-robot (4.0.0-1focal) focal; urgency=high
+
+  * Set back old version number before release
+  * Cleanup unused files
+  * First working version
+  * First WIP of upload.py
+  * Contributors: Victor Lopez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 11 Jul 2021 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.14-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 17 Jan 2021 23:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.13-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 29 Jul 2020 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.12-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 15 Jul 2020 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.11-1focal) focal; urgency=high
+
+  * Merge branch 'fix-changelog' into 'erbium-devel'
+    fixed changelog
+    See merge request robots/pmb2_robot!55
+  * fixed changelog
+  * Contributors: Procópio Stein
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 09 Jul 2020 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.10-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 20 Oct 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.9-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 01 Oct 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.8-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 26 Sep 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.7-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 24 Sep 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.6-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 19 Sep 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.5-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 09 Sep 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.4-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 16 Jul 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.3-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 08 Apr 2019 22:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.2-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 30 Jan 2019 23:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.1-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 19 Dec 2018 23:00:00 -0000
+
+ros-foxy-pmb2-robot (3.0.0-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 18 Dec 2018 23:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.8-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 26 Nov 2018 23:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.7-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 29 Jul 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.6-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 26 Apr 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.5-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 16 Apr 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.4-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 16 Apr 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.3-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 16 Apr 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.2-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 12 Apr 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.1-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 28 Mar 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (2.0.0-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 25 Mar 2018 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.14-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 29 Jan 2018 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.13-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 26 Sep 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.12-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 29 Jun 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.11-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 29 Jun 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.10-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 28 Jun 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.9-1focal) focal; urgency=high
+
+  * upgraded packages format, maintainers and license
+  * Contributors: Procópio Stein
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 27 Jun 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.8-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 10 Apr 2017 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.7-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 22 Feb 2017 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.6-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 06 Nov 2016 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.5-1focal) focal; urgency=high
+
+  * add tiago_support as maintainer
+  * Contributors: Jordi Pages
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 23 Oct 2016 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.4-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 03 Jul 2016 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.3-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 14 Jun 2016 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.2-1focal) focal; urgency=high
+
+  * 1.1.1
+  * Update changelog
+  * Contributors: Sam Pfeiffer
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 02 Jun 2016 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.1.0-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 14 Mar 2016 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.6-1focal) focal; urgency=high
+
+  * rm pmb2_hardware dep
+  * Contributors: Jeremie Deray
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 02 Mar 2016 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.5-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 08 Feb 2016 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.4-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 25 Oct 2015 23:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.3-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 05 Oct 2015 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.2-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 04 Oct 2015 22:00:00 -0000
+
+ros-foxy-pmb2-robot (1.0.1-1focal) focal; urgency=high
+
+  * 1.0.0
+  * Add changelog
+  * Add changelog
+  * Merging metal base branch
+  * Update maintainer
+  * Contributors: Bence Magyar, Luca Marchionni
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Wed, 30 Sep 2015 22:00:00 -0000
+
+ros-foxy-pmb2-robot (0.10.0-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 13 Jul 2015 22:00:00 -0000
+
+ros-foxy-pmb2-robot (0.9.10-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Thu, 26 Feb 2015 23:00:00 -0000
+
+ros-foxy-pmb2-robot (0.9.9-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 17 Feb 2015 23:00:00 -0000
+
+ros-foxy-pmb2-robot (0.9.8-1focal) focal; urgency=high
+
+
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 17 Feb 2015 23:00:00 -0000
+
+ros-foxy-pmb2-robot (0.9.7-1focal) focal; urgency=high
+
+  * Replace ant -> pmb2
+  * Rename files
+  * Contributors: Enrique Fernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 01 Feb 2015 23:00:00 -0000
+
+
