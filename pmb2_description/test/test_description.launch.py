@@ -1,4 +1,4 @@
-# Copyright (c) 2021 PAL Robotics S.L.
+# Copyright (c) 2022 PAL Robotics S.L. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from launch_pal.include_utils import include_launch_py_description
 from urdf_test.description_test import (generate_urdf_test_description,
                                         TestDescriptionPublished, TestSuccessfulExit)
-from launch_pal.include_utils import include_launch_py_description
 
 # Ignore unused import warnings for the Test Classes
 __all__ = ('TestDescriptionPublished', 'TestSuccessfulExit')

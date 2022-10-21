@@ -1,4 +1,4 @@
-# Copyright (c) 2021 PAL Robotics S.L.
+# Copyright (c) 2022 PAL Robotics S.L. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,9 +13,8 @@
 # limitations under the License.
 
 from launch import LaunchDescription
-from launch_ros.actions import Node
-
 from launch_pal.include_utils import include_launch_py_description
+from launch_ros.actions import Node
 
 
 def generate_launch_description():
@@ -36,8 +35,10 @@ def generate_launch_description():
         #       arguments=['-d', rviz_config_file],
         output='screen')
 
-    return LaunchDescription([
-        robot_state_publisher,
-        start_joint_pub_gui,
-        start_rviz_cmd
-    ])
+    ld = LaunchDescription()
+
+    ld.add_action(robot_state_publisher)
+    ld.add_action(start_joint_pub_gui)
+    ld.add_action(start_rviz_cmd)
+
+    return ld
