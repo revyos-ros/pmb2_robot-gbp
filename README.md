@@ -1,3 +1,30 @@
+## pmb2_robot (humble) - 4.0.5-1
+
+The packages in the `pmb2_robot` repository were released into the `humble` distro by running `/usr/bin/bloom-release --new-track --rosdistro humble --track humble pmb2_robot` on `Fri, 21 Oct 2022 09:20:46 -0000`
+
+These packages were released:
+- `pmb2_bringup`
+- `pmb2_controller_configuration`
+- `pmb2_description`
+- `pmb2_robot`
+
+Version of package(s) in repository `pmb2_robot`:
+
+- upstream repository: https://github.com/pal-robotics/pmb2_robot.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `4.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## pmb2_robot (foxy) - 4.0.4-1
 
 The packages in the `pmb2_robot` repository were released into the `foxy` distro by running `/home/victor/.local/bin/bloom-release --rosdistro foxy --track foxy pmb2_robot` on `Tue, 19 Oct 2021 11:48:16 -0000`
