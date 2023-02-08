@@ -2,6 +2,9 @@
 Changelog for package pmb2_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.0 (2023-02-08)
+------------------
+
 4.0.5 (2022-10-21)
 ------------------
 * Merge branch 'update_maintainers' into 'humble-devel'

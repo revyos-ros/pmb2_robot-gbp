@@ -2,6 +2,14 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.0 (2023-02-08)
+------------------
+* Merge branch 'transmissions' into 'humble-devel'
+  Update wheels transmissions
+  See merge request robots/pmb2_robot!91
+* update wheels transmissions
+* Contributors: Jordan Palacios, Noel Jimenez
+
 4.0.5 (2022-10-21)
 ------------------
 * Merge branch 'cleanup' into 'humble-devel'
