@@ -2,6 +2,9 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.0 (2023-02-08)
+------------------
+
 4.0.5 (2022-10-21)
 ------------------
 * Merge branch 'cleanup' into 'humble-devel'
