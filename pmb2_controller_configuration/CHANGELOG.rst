@@ -2,6 +2,9 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.3 (2023-04-17)
+------------------
+
 5.0.2 (2023-03-06)
 ------------------
 * Merge branch 'rm_use_sim_time' into 'humble-devel'
