@@ -2,6 +2,17 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.6 (2023-06-13)
+------------------
+
+5.0.5 (2023-05-15)
+------------------
+* Merge branch 'fix/controller' into 'humble-devel'
+  safer controller params
+  See merge request robots/pmb2_robot!97
+* safer controller params
+* Contributors: antoniobrandi
+
 5.0.4 (2023-04-28)
 ------------------
 * set sim time for gazebo controller_manager

@@ -2,6 +2,29 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.6 (2023-06-13)
+------------------
+
+5.0.5 (2023-05-15)
+------------------
+* Merge branch 'joystick_disable_default' into 'humble-devel'
+  disable joystick launch on bringup
+  See merge request robots/pmb2_robot!104
+* disable joystick launch on bringup
+* Merge branch 'feature/joystick' into 'humble-devel'
+  Joystick teleop
+  See merge request robots/pmb2_robot!101
+* remove dependency comment
+* add joystick commands dependencies
+* use radians/s for angular velocity
+* rename joy.yaml to joy_config.yaml
+* set twist_mux parameters to the corresponding node
+* use default autorepeat_rate for joystick
+* set joystick_relay cfg
+* launch joy_node
+* update joy_teleop config
+* Contributors: Jordan Palacios, Noel Jimenez
+
 5.0.4 (2023-04-28)
 ------------------
 
