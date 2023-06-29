@@ -2,6 +2,14 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.6 (2023-06-13)
+------------------
+* remove namespace for base sonars
+* Contributors: Noel Jimenez
+
+5.0.5 (2023-05-15)
+------------------
+
 5.0.4 (2023-04-28)
 ------------------
 * fix indentation
