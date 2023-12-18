@@ -2,6 +2,36 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.14 (2023-11-22)
+-------------------
+
+5.0.13 (2023-11-14)
+-------------------
+* Add website tag
+* Contributors: Noel Jimenez
+
+5.0.12 (2023-11-13)
+-------------------
+
+5.0.11 (2023-11-07)
+-------------------
+* Split bringup module
+* Contributors: Noel Jimenez
+
+5.0.10 (2023-10-19)
+-------------------
+
+5.0.9 (2023-09-20)
+------------------
+* Merge branch 'add_modules' into 'humble-devel'
+  Adding modules
+  See merge request robots/pmb2_robot!109
+* Adding modules
+* Contributors: Jordan Palacios
+
+5.0.8 (2023-09-04)
+------------------
+
 5.0.7 (2023-07-11)
 ------------------
 * Uncomment twist_mux_msgs dependency
