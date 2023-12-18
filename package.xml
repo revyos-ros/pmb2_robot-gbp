@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>pmb2_bringup</name>
-  <version>5.0.7</version>
+  <version>5.0.14</version>
   <description>Launch files and scripts needed to bring up the ROS nodes of a PMB2 robot.</description>
   <maintainer email="jordan.palacios@pal-robotics.com">Jordan Palacios</maintainer>
   <maintainer email="noel.jimenez@pal-robotics.com">Noel Jimenez</maintainer>
@@ -9,7 +9,11 @@
   <author email="bence.magyar@pal-robotics.com">Bence Magyar</author>
   <author email="enrique.fernandez@pal-robotics.com">Enrique Fernandez</author>
 
+  <url type="website">https://github.com/pal-robotics/pmb2_simulation</url>
+
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
+
+  <build_depend condition="$PAL_DISTRO >= alum">pal_module_cmake</build_depend>
 
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>joy</exec_depend>
@@ -27,5 +31,4 @@
   <export>
     <build_type>ament_cmake</build_type>
   </export>
-
 </package>
