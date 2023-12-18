@@ -2,6 +2,39 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.14 (2023-11-22)
+-------------------
+* Set 'finishes: True' for default_controllers module
+* Contributors: Noel Jimenez
+
+5.0.13 (2023-11-14)
+-------------------
+* Add website tag
+* Rename description and controller modules
+* Contributors: Noel Jimenez
+
+5.0.12 (2023-11-13)
+-------------------
+
+5.0.11 (2023-11-07)
+-------------------
+* Split bringup module
+* Contributors: Noel Jimenez
+
+5.0.10 (2023-10-19)
+-------------------
+
+5.0.9 (2023-09-20)
+------------------
+* Merge branch 'feat/load_wheels_calibration' into 'humble-devel'
+  Use wheels calibration if exists
+  See merge request robots/pmb2_robot!110
+* Use wheels calibration if exists
+* Contributors: Jordan Palacios, Noel Jimenez
+
+5.0.8 (2023-09-04)
+------------------
+
 5.0.7 (2023-07-11)
 ------------------
 * Remove pal flags dependency
