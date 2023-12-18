@@ -2,6 +2,38 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.14 (2023-11-22)
+-------------------
+
+5.0.13 (2023-11-14)
+-------------------
+* Add website tag
+* Rename description and controller modules
+* Contributors: Noel Jimenez
+
+5.0.12 (2023-11-13)
+-------------------
+* Set use_sim_time false as default
+* Contributors: Noel Jimenez
+
+5.0.11 (2023-11-07)
+-------------------
+* Split bringup module
+* Contributors: Noel Jimenez
+
+5.0.10 (2023-10-19)
+-------------------
+* fix laser_node name
+* Contributors: andreacapodacqua
+
+5.0.9 (2023-09-20)
+------------------
+
+5.0.8 (2023-09-04)
+------------------
+* Add use_sim_time argument to use it in the robot description
+* Contributors: Noel Jimenez
+
 5.0.7 (2023-07-11)
 ------------------
 * Remove pal flags dependency
