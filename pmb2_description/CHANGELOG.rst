@@ -2,6 +2,11 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.15 (2023-12-18)
+-------------------
+* Use pal_urdf_utils materials and deg_to_rad
+* Contributors: Noel Jimenez
+
 5.0.14 (2023-11-22)
 -------------------
 
