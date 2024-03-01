@@ -2,6 +2,14 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.16 (2024-02-02)
+-------------------
+* Merge branch 'feat/register-components' into 'humble-devel'
+  remove need for remapping cmd_vel topic
+  See merge request robots/pmb2_robot!121
+* remove need for remapping cmd_vel topic
+* Contributors: antoniobrandi
+
 5.0.15 (2023-12-18)
 -------------------
 
