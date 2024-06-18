@@ -2,6 +2,30 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.20 (2024-06-03)
+-------------------
+* Merge branch 'fix/aca/reduced-laser-noise' into 'humble-devel'
+  reduced laser_noise
+  See merge request robots/pmb2_robot!130
+* reduced laser_noise
+* Merge branch 'omm/fix/imu_proper_urdf' into 'humble-devel'
+  IMU proper placement
+  See merge request robots/pmb2_robot!127
+* Style and IMU proper placement
+* Contributors: Oscar, andreacapodacqua, davidterkuile
+
+5.0.19 (2024-04-11)
+-------------------
+* added public sim config mobile base controller and restored original laser noise
+* enable dlo sim and reduce laser noise
+* Contributors: andreacapodacqua
+
+5.0.18 (2024-04-11)
+-------------------
+
+5.0.17 (2024-04-10)
+-------------------
+
 5.0.16 (2024-02-02)
 -------------------
 
