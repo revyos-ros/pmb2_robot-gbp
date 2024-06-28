@@ -2,6 +2,43 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.25 (2024-06-28)
+-------------------
+
+5.0.24 (2024-06-27)
+-------------------
+* Merge branch 'dtk/rgbd-sensors' into 'humble-devel'
+  Dtk/rgbd sensors
+  See merge request robots/pmb2_robot!135
+* Change courier sensors to add-on-module
+* Change has_courier_rgbd_sensors to rgbd_sensors
+* Contributors: David ter Kuile, davidterkuile
+
+5.0.23 (2024-06-26)
+-------------------
+* Merge branch 'dtk/move-robot-args' into 'humble-devel'
+  Dtk/move robot args
+  See merge request robots/pmb2_robot!133
+* Change import for launch args
+* Contributors: David ter Kuile, davidterkuile
+
+5.0.22 (2024-06-25)
+-------------------
+* Merge branch 'omm/complete_std' into 'humble-devel'
+  Complete std
+  See merge request robots/pmb2_robot!129
+* Fix linters
+* Restructure launch file
+* change to joy_linux and update joystick config
+* Add public sim
+* Update copyright + move imu into sensors
+* Cleaning and proper main structure
+* Launch standarization
+* Contributors: David ter Kuile, Oscar, davidterkuile, oscarmartinez, thomas.peyrucain
+
+5.0.21 (2024-06-20)
+-------------------
+
 5.0.20 (2024-06-03)
 -------------------
 
