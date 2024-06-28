@@ -2,6 +2,33 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.25 (2024-06-28)
+-------------------
+* Add imu sensor broadcaster
+* Contributors: davidterkuile
+
+5.0.24 (2024-06-27)
+-------------------
+
+5.0.23 (2024-06-26)
+-------------------
+
+5.0.22 (2024-06-25)
+-------------------
+* Merge branch 'omm/complete_std' into 'humble-devel'
+  Complete std
+  See merge request robots/pmb2_robot!129
+* Add imu broadcaster
+* Fix linters
+* Update copyright + move imu into sensors
+* Launch standarization
+* Contributors: David ter Kuile, Oscar, davidterkuile, thomas.peyrucain
+
+5.0.21 (2024-06-20)
+-------------------
+* Remove casters and suspension from joint_state_broadcaster
+* Contributors: Noel Jimenez
+
 5.0.20 (2024-06-03)
 -------------------
 
