@@ -2,6 +2,54 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.0.25 (2024-06-28)
+-------------------
+
+5.0.24 (2024-06-27)
+-------------------
+* Merge branch 'dtk/rgbd-sensors' into 'humble-devel'
+  Dtk/rgbd sensors
+  See merge request robots/pmb2_robot!135
+* Change courier sensors to add-on-module
+* Change has_courier_rgbd_sensors to rgbd_sensors
+* Merge branch 'fix/set_casters_suspension_fixed' into 'humble-devel'
+  Set casters and suspension joints to fixed
+  See merge request robots/pmb2_robot!134
+* Set casters and suspension joints to fixed
+* Contributors: David ter Kuile, Noel Jimenez, davidterkuile
+
+5.0.23 (2024-06-26)
+-------------------
+* Merge branch 'dtk/move-robot-args' into 'humble-devel'
+  Dtk/move robot args
+  See merge request robots/pmb2_robot!133
+* Change import for launch args
+* Contributors: David ter Kuile, davidterkuile
+
+5.0.22 (2024-06-25)
+-------------------
+* Merge branch 'omm/complete_std' into 'humble-devel'
+  Complete std
+  See merge request robots/pmb2_robot!129
+* Move _link to top file xacro
+* Remove colon from urdf
+* Update xacro of the base
+* Fix linters
+* Add public sim
+* URDF cleanup
+* Fix tests
+* Update copyright + move imu into sensors
+* Cleanup + move deg_to_rad to robot urdf
+* Bring back the parameters
+* Rename file because of dependency error, will be handled in another task
+* Unified style and namings
+* Cleaning and proper main structure
+* Launch standarization
+* Contributors: David ter Kuile, Oscar, davidterkuile, oscarmartinez, thomas.peyrucain
+
+5.0.21 (2024-06-20)
+-------------------
+
 5.0.20 (2024-06-03)
 -------------------
 * Merge branch 'fix/aca/reduced-laser-noise' into 'humble-devel'
