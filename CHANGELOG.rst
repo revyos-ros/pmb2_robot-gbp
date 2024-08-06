@@ -2,6 +2,24 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.1.1 (2024-08-05)
+------------------
+* Publish odom tf for public sim
+* Contributors: David ter Kuile
+
+5.1.0 (2024-08-02)
+------------------
+* Use controller_type from the controllers config
+* Contributors: Noel Jimenez
+
+5.0.27 (2024-07-31)
+-------------------
+
+5.0.26 (2024-07-09)
+-------------------
+* Add warning for pal_module_cmake not found
+* Contributors: Noel Jimenez
+
 5.0.25 (2024-06-28)
 -------------------
 * Add imu sensor broadcaster
