@@ -2,6 +2,9 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.1.2 (2024-08-07)
+------------------
+
 5.1.1 (2024-08-05)
 ------------------
 * Publish odom tf for public sim
