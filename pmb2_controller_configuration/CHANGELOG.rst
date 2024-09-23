@@ -2,6 +2,17 @@
 Changelog for package pmb2_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.3.0 (2024-09-03)
+------------------
+
+5.2.0 (2024-08-29)
+------------------
+* Refactor mobile base controller
+* Contributors: David ter Kuile
+
+5.1.3 (2024-08-19)
+------------------
+
 5.1.2 (2024-08-07)
 ------------------
 * Fix error of loading mobile_base_controller.yaml
