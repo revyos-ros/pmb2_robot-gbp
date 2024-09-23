@@ -2,6 +2,29 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.3.0 (2024-09-03)
+------------------
+* Merge branch 'man/feat/docking' into 'humble-devel'
+  added docking link in urdf
+  See merge request robots/pmb2_robot!145
+* added docking link in urdf
+* Merge branch 'fix/add_slash_to_nodes' into 'humble-devel'
+  Add slash to node names on parameter files
+  See merge request robots/pmb2_robot!146
+* Add slash to node names on parameter files
+* Contributors: Jordan Palacios, Noel Jimenez, josegarcia, martinaannicelli
+
+5.2.0 (2024-08-29)
+------------------
+
+5.1.3 (2024-08-19)
+------------------
+* Merge branch 'tpe/fix/slipping' into 'humble-devel'
+  Fix slippage gazebo issue happening on pmb2
+  See merge request robots/pmb2_robot!144
+* Fix slippage gazebo issue happening on pmb2
+* Contributors: andreacapodacqua, thomas.peyrucain
+
 5.1.2 (2024-08-07)
 ------------------
 
