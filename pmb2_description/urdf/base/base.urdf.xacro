@@ -80,6 +80,38 @@
     <!-- Orange cover -->
     <xacro:cover name="${name}_cover" parent="${name}_footprint"/>
 
+    <!-- Docking link -->
+    <link name="${name}_dock_link">
+      <inertial>
+        <origin xyz="-0.0037082 1.5226E-18 -4.1633E-17" rpy="0 0 0" />
+        <mass value="0.032242" />
+        <inertia ixx="2.1302E-05" ixy="-1.0461E-21" ixz="6.6555E-22"
+          iyy="1.2058E-05" iyz="-1.9453E-21" izz="1.0058E-05" />
+      </inertial>
+      <visual>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://pmb2_description/meshes/base/base_dock_link.stl" />
+        </geometry>
+        <material name="">
+          <color rgba="0.25098 0.25098 0.25098 1" />
+        </material>
+      </visual>
+      <collision>
+        <origin xyz="0 0 0" rpy="0 0 0" />
+        <geometry>
+          <mesh filename="package://pmb2_description/meshes/base/base_dock_link.stl" />
+        </geometry>
+      </collision>
+    </link>
+    <joint name="${name}_dock" type="fixed">
+      <origin xyz="0.2675 0 0.061" rpy="0 0 0" />
+      <parent link="${name}_link" />
+      <child link="${name}_dock_link" />
+      <axis xyz="0 0 0" />
+    </joint>
+
+
     <!-- Antennas -->
     <xacro:antenna name="${name}_antenna_left" parent="${name}_link">
       <origin xyz="-0.201 0.1062 0.195" rpy="0 0 0"/>
