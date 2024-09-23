@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/pmb2_robot-gbp.git
 tracks:
   foxy:
     actions:
