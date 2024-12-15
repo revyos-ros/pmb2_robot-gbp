@@ -2,6 +2,17 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.4.0 (2024-11-05)
+------------------
+
+5.3.1 (2024-10-15)
+------------------
+* Merge branch 'fix/aca/joy-turbo' into 'humble-devel'
+  using same configuration of joy_teleop of TIAGo
+  See merge request robots/pmb2_robot!148
+* using same configuration of joy_teleop of TIAGo
+* Contributors: andreacapodacqua
+
 5.3.0 (2024-09-03)
 ------------------
 * Merge branch 'fix/add_slash_to_nodes' into 'humble-devel'
